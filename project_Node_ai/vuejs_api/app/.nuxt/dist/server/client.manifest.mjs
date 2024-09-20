@@ -1,0 +1,1 @@
+export { default } from "file:///Users/heroteam/Documents/python/node_api/vuejs_api/app/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
